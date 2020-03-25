@@ -1,0 +1,5 @@
+1.  Is it ever possible and, if so, advisable to traverse and manipulate in a single piece of code?  
+2.  jQuery site says that .val() gets teh current value of the first element in the set of matched   elements OR sets the width of every matched element.  How can that be possible?
+3.  What are the most common jQuery traversal methods?
+4.  What are the most common jQuery manipulation methods?
+5.  Is jQuery fully compatible with ES6?
